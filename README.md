@@ -1,8 +1,8 @@
 # Caesar-Cipher: Simple Crytography Written in Ruby
 
 ## 1. Description
-First project in ruby. Simple cipher functions that shifts input text characters 
-to the left by given key value based on Caesar Cipher algorithm. 
+First project in ruby. Simple cipher function that shifts input text characters 
+to the right by given key value based on Caesar Cipher algorithm. 
 
 ## 2. Usage
 > 1. User will be prompted for Text input.
